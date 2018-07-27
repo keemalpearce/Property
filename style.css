@@ -1,0 +1,9 @@
+.wrapper {
+    font-size: 12px;
+    max-width: 480px;
+    margin: 0 auto;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
